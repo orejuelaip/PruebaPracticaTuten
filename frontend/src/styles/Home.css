@@ -1,0 +1,46 @@
+.Home{
+    background-color: #cccccc2e;
+    margin: auto;
+    height: 40vh;
+    margin-top: 8vh;
+    width: 80%;
+    padding: 10px 15px;
+}
+
+.Home table{
+    border-radius: 8px;
+    border: 1px solid #444;
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+.Home table th{
+    background-color: #ccc;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+.Home table td{
+    padding: 5px 10px;
+    border-bottom: 1px solid #444;
+}
+ 
+.Home input{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    margin-left: 2px;
+}
+
+.Home select{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+    margin-left: 2px;
+}
+
+.Home button{
+    margin-left: 5px;
+    padding: 5px 10px;
+}

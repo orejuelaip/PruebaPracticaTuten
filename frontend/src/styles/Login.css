@@ -1,0 +1,49 @@
+.Login{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 25vh;
+    height: 25vh;
+    padding: 15px;
+    width: 50%;
+    box-shadow:0px 1px 0 0 #ccc, -2px 0 0.1em #ccc;
+
+}
+
+.Login h1{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.Login .inputs{
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin: auto;
+    width: 60%;
+}
+
+.Login .inputs input{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 65%;
+}
+
+.Login .inputs button{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #cd5c5c;
+    color: #fff;
+    display: block;
+    padding: 5px;
+    margin: auto;
+    width: 70%;
+}
+.Login label{
+    color: #444;
+    float: left;
+    font-weight: 600;
+    width: 80px;
+}
+

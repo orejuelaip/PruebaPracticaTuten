@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ 
+
+.alerta{
+    border: 1px solid #444;
+     border-radius: 5px;
+     top: 9vh;
+     right: 10px ;
+     position: absolute;
+     padding: 10px 5px;
+}
+
+.alerta-error{
+    background-color: #cd5c5c;
+    color: #fff;
+}
